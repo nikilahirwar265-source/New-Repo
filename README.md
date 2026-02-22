@@ -1,2 +1,2 @@
 # New-Rep
-this is my new Repositrios now i create a new repositrios
+this is my new Repositories now i create a new repositories
